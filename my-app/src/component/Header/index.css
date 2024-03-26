@@ -1,0 +1,19 @@
+.mainnav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.upperdiv{
+    width: 35%;
+    color: #333333;
+    align-items: center;
+}
+
+.list{
+    display: flex;
+    align-items:  center;
+    justify-content: space-between;
+    list-style: none;
+}
+

@@ -1,0 +1,38 @@
+.h1{
+    color: #333333;
+}
+
+.ourservice{
+    display: flex;
+}
+
+/* .prodimagediv{
+    margin-top: 30px;
+    width: 200px;
+} */
+
+.prodHeader {
+    margin-top: 5px;
+}
+
+.lorem {
+    margin-top: 10px;
+    font-size: 12px;
+    color: #909090;
+
+}
+.design, .mydesign, .vectordiv {
+    display: flex;
+}
+
+.ourservice{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.myproduct{
+    display: flex;
+}
+.all{
+    display: flex;
+}

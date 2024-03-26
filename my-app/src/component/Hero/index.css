@@ -1,0 +1,33 @@
+.hero{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+
+.hi{
+    color: #333333;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.myDiv, .image{
+    width: 50%;
+}
+
+.image{
+    width: -webkit-fill-available;
+    color: #333333;
+}
+
+.luxe{
+    font-size: 60px;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    width: 60%;
+    
+}
+
+.button{
+    margin-top: 15px;
+    padding: 15px;
+}
